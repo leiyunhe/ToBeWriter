@@ -5,3 +5,5 @@
 
 - [ ] [悠游小说林](https://github.com/leiyunhe/ToBeWriter/blob/master/170422SixWalksInTheFictionalWoods.md)
 - [ ] [老人与海](https://github.com/leiyunhe/ToBeWriter/blob/master/170422TheOldManAndTheSea.md)
+
+- [x] [故事](https://github.com/leiyunhe/ToBeWriter/blob/master/170506Story.md)
